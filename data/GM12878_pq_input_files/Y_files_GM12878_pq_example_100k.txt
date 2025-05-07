@@ -1,0 +1,2 @@
+data/GM12878_pq_input_files/Y/Y_log_chr19_p_100k_oe.txt
+data/GM12878_pq_input_files/Y/Y_log_chr19_q_100k_oe.txt

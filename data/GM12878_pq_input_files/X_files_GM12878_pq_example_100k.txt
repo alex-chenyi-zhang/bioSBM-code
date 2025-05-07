@@ -1,0 +1,3 @@
+data/GM12878_pq_input_files/X/X_chr19_p_100k_filt.txt
+data/GM12878_pq_input_files/X/X_chr19_q_100k_filt.txt
+
